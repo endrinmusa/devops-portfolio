@@ -61,7 +61,7 @@ const Contact = () => {
 
       <p>
         Currently, I'm not actively looking for a new opportunity. But feel free to reach out to me!
-        Do you have a project? Or a questions you want to ask? Reach out to me and we'll talk!
+        Do you have a project? Or a question? Reach out to me and we'll talk!
       </p>
 
       <a className="email-link" href={`mailto:${email}`}>

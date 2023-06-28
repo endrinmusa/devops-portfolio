@@ -125,7 +125,7 @@ const About = () => {
     sr.reveal(revealContainer.current, srConfig());
   }, []);
 
-  const skills = ['JavaScript (ES6+)', 'TypeScript', 'React', 'Eleventy', 'Node.js', 'WordPress'];
+  const skills = ['AWS', 'Kubernetes', 'Docker', 'Linux', 'GitHub/GitLab', 'IaC (Pulumi, Terrform)', 'Helm', 'Ansible', 'Python', 'CI/CD'];
 
   return (
     <StyledAboutSection id="about" ref={revealContainer}>
@@ -135,33 +135,23 @@ const About = () => {
         <StyledText>
           <div>
             <p>
-              Hi! My name is Endrin and I enjoy creating things that live on the internet. My
-              interest in web development started back in 2012 when I decided to try editing custom
-              Tumblr themes — turns out hacking together a custom reblog button taught me a lot
-              about HTML &amp; CSS!
+            Hi, I'm Endrin Musa, a DevOps engineer specializing in cloud services and automation.
+            My expertise lies in designing and managing scalable infrastructure solutions, optimizing operational efficiency,
+            and driving innovation. With a strong track record of successful project delivery, I excel in creating reliable and
+            cost-effective systems that enhance performance and agility.
             </p>
 
             <p>
-              Fast-forward to today, and I’ve had the privilege of working at{' '}
-              <a href="https://us.mullenlowe.com/">an advertising agency</a>,{' '}
-              <a href="https://starry.com/">a start-up</a>,{' '}
-              <a href="https://www.apple.com/">a huge corporation</a>, and{' '}
-              <a href="https://scout.camd.northeastern.edu/">a student-led design studio</a>. My
-              main focus these days is building accessible, inclusive products and digital
-              experiences at <a href="https://upstatement.com/">Upstatement</a> for a variety of
-              clients.
+              So far, I have worked with different companies, including{' '}
+              <a href="https://buckaroo.nl/">leading payment provider solution</a>,{' '}
+              <a href="https://raiffeisen-kosovo.com/">one of the largest banks in Europe</a>,{' '}
+              <a href="https://noexis.ch">Swiss software company</a>, and{' '}
+              <a href="https://kutia.net/">a pioneering company in software development in Kosovo</a>. I have
+              transitioned into DevOps coming from a System Administrator position, enabling me to have experience
+              working both with infrastructure, and development teams helping me understand their problems, and therefore
+              providing solutions.
             </p>
-
-            <p>
-              I also recently{' '}
-              <a href="https://www.newline.co/courses/build-a-spotify-connected-app">
-                launched a course
-              </a>{' '}
-              that covers everything you need to build a web app with the Spotify API using Node
-              &amp; React.
-            </p>
-
-            <p>Here are a few technologies I’ve been working with recently:</p>
+            <p>Here's a list of tools & technologies I've worked with so far</p>
           </div>
 
           <ul className="skills-list">
