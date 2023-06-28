@@ -1,10 +1,10 @@
 ---
-date: '2015-12-21'
-title: 'Creative Technologist Co-op'
-company: 'MullenLowe'
-location: 'Boston, MA'
-range: 'July - December 2015'
-url: 'https://us.mullenlowe.com/'
+date: '2021-08-01'
+title: 'DevOps Engineer'
+company: 'Kutia'
+location: 'Prishtina, KS'
+range: 'Aug 2021 - Nov 2022'
+url: 'https://www.kutia.net'
 ---
 
 - Developed, maintained, and shipped production code for client websites primarily using HTML, CSS, Sass, JavaScript, and jQuery

@@ -2,7 +2,7 @@ import React from 'react';
 
 const IconStar = () => (
   <svg
-    viewBox="0 0 24 24"
+    viewBox="0 0 20 20"
     fill="none"
     stroke="currentColor"
     strokeWidth="2"
@@ -10,7 +10,7 @@ const IconStar = () => (
     strokeLinejoin="round"
     className="feather feather-star">
     <title>Star</title>
-    <polygon points="12 2 15.09 8.26 22 9.27 17 14.14 18.18 21.02 12 17.77 5.82 21.02 7 14.14 2 9.27 8.91 8.26 12 2" />
+    <rect points="12 22 22 10.5 22 15.5 12 22 2 15.5 2 8.5 12 2" />
   </svg>
 );
 

@@ -1,10 +1,10 @@
 ---
-date: '2016-12-21'
-title: 'Software Engineer Co-op'
-company: 'Starry'
-location: 'Boston, MA'
-range: 'July - December 2016'
-url: 'https://starry.com/'
+date: '2022-11-1'
+title: 'DevOps Engineer'
+company: 'Raiffeisen Bank Kosovo'
+location: 'Prishtina, KS'
+range: 'Nov 2022 - Apr 2023'
+url: 'https://raiffeisen-kosovo.com/'
 ---
 
 - Engineered and improved major features of Starry's customer-facing Android web app using ES6, Handlebars, Backbone, Marionette, and CSS

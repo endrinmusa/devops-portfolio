@@ -1,10 +1,10 @@
 ---
-date: '2017-12-21'
-title: 'UI Engineer Co-op'
-company: 'Apple'
-location: 'Cupertino, CA'
-range: 'July - December 2017'
-url: 'https://www.apple.com/music/'
+date: '2020-10-01'
+title: 'System Administrator'
+company: 'Sonnecto'
+location: 'Prishtina, KS'
+range: 'Oct 2020 - Oct 2021'
+url: 'https://www.sonnecto.com'
 ---
 
 - Developed and styled interactive web applications for Apple Music using Ember and SCSS

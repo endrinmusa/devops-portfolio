@@ -5,7 +5,7 @@ const IconHex = () => (
     <title>Hexagon</title>
     <g transform="translate(-8.000000, -2.000000)">
       <g transform="translate(11.000000, 5.000000)">
-        <polygon
+        <rect
           stroke="currentColor"
           strokeWidth="5"
           strokeLinecap="round"
