@@ -4,7 +4,7 @@ module.exports = {
   siteMetadata: {
     title: 'Endrin Musa',
     description:
-      'Brittany Chiang is a software engineer who specializes in building (and occasionally designing) exceptional digital experiences.',
+      'Endrin Musa is a DevOps Engineer who works with cloud infrastructure, infrastructure as code and automation',
     siteUrl: 'https://endrinmusa.dev', // No trailing slash allowed!
     image: '/og.png', // Path to your image you placed in the 'static' folder
     twitterUsername: '@bchiang7',
