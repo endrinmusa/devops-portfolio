@@ -6,8 +6,6 @@ module.exports = {
     description:
       'Endrin Musa is a DevOps Engineer who works with cloud infrastructure, infrastructure as code and automation',
     siteUrl: 'https://endrinmusa.dev', // No trailing slash allowed!
-    image: '/og.png', // Path to your image you placed in the 'static' folder
-    twitterUsername: '@bchiang7',
   },
   plugins: [
     `gatsby-plugin-react-helmet`,

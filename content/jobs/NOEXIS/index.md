@@ -7,5 +7,9 @@ range: 'Nov 2021 - Oct 2022'
 url: 'https://noexis.ch'
 ---
 
-- Collaborated with other student designers and engineers on pro-bono projects to create new brands, design systems, and websites for organizations in the community
-- Built and delivered technical solutions according to stakeholder business requirements
+- CI/CD Pipeline using GitLab, GitHub Actions using GitHub
+- Kubernetes Cluster configuration using Rancher and EKS
+- Application containerization using Docker Images and Podman
+- Application and infrastructure planning, testing and development
+- Source code management using GitLab, BitBucket, GitHub
+- Process automation with Ansible, Terraform
