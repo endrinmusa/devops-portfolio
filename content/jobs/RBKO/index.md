@@ -1,7 +1,7 @@
 ---
 date: '2022-11-1'
 title: 'DevOps Engineer'
-company: 'Raiffeisen Bank Kosovo'
+company: 'RBKO'
 location: 'Prishtina, KS'
 range: 'Nov 2022 - Apr 2023'
 url: 'https://raiffeisen-kosovo.com/'

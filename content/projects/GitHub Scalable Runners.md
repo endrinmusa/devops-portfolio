@@ -1,6 +1,6 @@
 ---
 date: '2023-01-01'
-title: 'GitHub Scalable runners with Kubernetes'
+title: 'Scalable Runners'
 github: ''
 external: ''
 tech:
